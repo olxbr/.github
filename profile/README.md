@@ -1,4 +1,5 @@
-![OLX_logo](https://user-images.githubusercontent.com/31991866/133796375-faaf24fd-c280-4ba4-9cba-4803ae63556a.png)
+![OLX-Logo](https://user-images.githubusercontent.com/31991866/153212002-a49b3c7d-24f1-458e-be44-17ee2a9a0460.png)
+
 
 <!--
 
