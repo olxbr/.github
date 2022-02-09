@@ -1,1 +1,1 @@
-![desk_v3](https://user-images.githubusercontent.com/31991866/133796375-faaf24fd-c280-4ba4-9cba-4803ae63556a.png)
+![Trimed-Logo](https://user-images.githubusercontent.com/31991866/153211878-b2fd5fd9-6158-4573-9a6c-c8218e299f4f.png)
